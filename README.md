@@ -9,7 +9,8 @@ Websites showcasing responsiveness.
 ## Checkout-Page
 ### [DEMO-LINK](https://checkout-101.netlify.app/) | [REPO-LINK](https://github.com/rishimish/checkout)
 ### mobile-view
-![WhatsApp Image 2021-06-15 at 00 38 29](https://user-images.githubusercontent.com/42747614/121946036-1e1b3f00-cd72-11eb-9a50-8246b11ab9a6.jpeg)
+![WhatsApp Image 2021-06-15 at 00 38 29](https://user-images.githubusercontent.com/42747614/121950900-d5668480-cd77-11eb-8ff4-b6ef11645c66.jpeg)
+
 
 ### Desktop-view
 ![Screenshot (69)](https://user-images.githubusercontent.com/42747614/121946058-25dae380-cd72-11eb-803e-8b7250f0de80.png)
@@ -38,7 +39,12 @@ Websites showcasing responsiveness.
 ### Desktop-view
 ![Screenshot-desktop](https://user-images.githubusercontent.com/42747614/118717106-3cf5e680-b843-11eb-9371-38928da23639.png)
 ### mobile-view
-![Screenshot-mobile](https://user-images.githubusercontent.com/42747614/118717098-3b2c2300-b843-11eb-8a85-d2a800a6e749.jpg)
+
+![Screenshot (72)](https://user-images.githubusercontent.com/42747614/121950655-8caecb80-cd77-11eb-8f8a-04f352574142.png)
+
+![Screenshot (71)](https://user-images.githubusercontent.com/42747614/121950450-45283f80-cd77-11eb-8201-6f8806baeb37.png)
+
+
 
 ## 404-page-not-found</li>
 ### [DEMO-LINK](https://404first.netlify.app/) |  [REPO-LINK](https://github.com/rishimish/devchallenges.io)
