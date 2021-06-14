@@ -7,7 +7,18 @@ Websites showcasing responsiveness.
 - Netlify
 
 ## Checkout-Page
-### [DEMO-LINK](https://checkout-101.netlify.app/) | [REPO-LINK](https://github.com/rishimish/checkout)
+<div align="center">
+  <h3>
+    <a href="https://checkout-101.netlify.app/" target="_blank">
+      Website-link
+    </a>
+    <span> | </span>
+    <a href="https://github.com/rishimish/checkout" target="_blank">
+      Repo-link
+    </a>
+  </h3>
+</div>
+
 ### mobile-view
 ![WhatsApp Image 2021-06-15 at 00 38 29](https://user-images.githubusercontent.com/42747614/121950900-d5668480-cd77-11eb-8ff4-b6ef11645c66.jpeg)
 
@@ -18,7 +29,18 @@ Websites showcasing responsiveness.
 
 
 ## Gallery
-### [DEMO-LINK](https://gallery-101.netlify.app/) | [REPO-LINK](https://github.com/rishimish/gallery)
+<div align="center">
+  <h3>
+    <a href="https://gallery-101.netlify.app/" target="_blank">
+      Website-link
+    </a>
+    <span> | </span>
+    <a href="https://github.com/rishimish/gallery" target="_blank">
+      Repo-link
+    </a>
+  </h3>
+</div>
+
 ### Desktop-view
 ![Screenshot (66)](https://user-images.githubusercontent.com/42747614/121587741-c075b280-ca52-11eb-821d-c853efc12a1e.png)
 ![Screenshot (67)](https://user-images.githubusercontent.com/42747614/121587723-bce22b80-ca52-11eb-829d-0001a2cfef09.png)
@@ -26,7 +48,18 @@ Websites showcasing responsiveness.
 ![Screenshot (68)](https://user-images.githubusercontent.com/42747614/121587733-bf448580-ca52-11eb-88bc-1ac67a223a68.png)
 
 ## Recipe-blog
-### [DEMO-LINK](https://recipe-blog-cake.netlify.app/) | [REPO-LINK](https://github.com/rishimish/recipe-blog-challenge)
+<div align="center">
+  <h3>
+    <a href="https://recipe-blog-cake.netlify.app/" target="_blank">
+      Website-link
+    </a>
+    <span> | </span>
+    <a href="https://github.com/rishimish/recipe-blog-challenge" target="_blank">
+      Repo-link
+    </a>
+  </h3>
+</div>
+
 ### Desktop-view
 ![Screenshot (62)](https://user-images.githubusercontent.com/42747614/121257006-cccf0380-c8ca-11eb-8a64-e94ed4255c9a.png)
 
@@ -35,7 +68,18 @@ Websites showcasing responsiveness.
 ![WhatsApp Image 2021-06-09 at 02 30 58](https://user-images.githubusercontent.com/42747614/121257101-ec662c00-c8ca-11eb-98a2-a2892071c955.jpeg)
 
 ## My-Team-Page
-### [DEMO-LINK](https://myteampage01.netlify.app/) | [REPO-LINK](https://github.com/rishimish/my-team-page)
+<div align="center">
+  <h3>
+    <a href="https://myteampage01.netlify.app/" target="_blank">
+      Website-link
+    </a>
+    <span> | </span>
+    <a href="https://github.com/rishimish/my-team-page" target="_blank">
+      Repo-link
+    </a>
+  </h3>
+</div>
+
 ### Desktop-view
 ![Screenshot-desktop](https://user-images.githubusercontent.com/42747614/118717106-3cf5e680-b843-11eb-9371-38928da23639.png)
 ### mobile-view
@@ -47,7 +91,18 @@ Websites showcasing responsiveness.
 
 
 ## 404-page-not-found</li>
-### [DEMO-LINK](https://404first.netlify.app/) |  [REPO-LINK](https://github.com/rishimish/devchallenges.io)
+<div align="center">
+  <h3>
+    <a href="https://404first.netlify.app/" target="_blank">
+      Website-link
+    </a>
+    <span> | </span>
+    <a href="https://github.com/rishimish/devchallenges.io" target="_blank">
+      Repo-link
+    </a>
+  </h3>
+</div>
+
 ### Desktop-view
 ![Screenshot-desktop](https://user-images.githubusercontent.com/42747614/118406679-70e1d800-b69a-11eb-9920-e3dfa4041bff.png)
 ### mobile-view
